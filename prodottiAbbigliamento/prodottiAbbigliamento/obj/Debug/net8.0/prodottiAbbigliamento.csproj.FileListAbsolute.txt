@@ -1,0 +1,14 @@
+C:\Users\caibugatti.ruben\Desktop\prodottiAbbigliamento\prodottiAbbigliamento\prodottiAbbigliamento\bin\Debug\net8.0\prodottiAbbigliamento.exe
+C:\Users\caibugatti.ruben\Desktop\prodottiAbbigliamento\prodottiAbbigliamento\prodottiAbbigliamento\bin\Debug\net8.0\prodottiAbbigliamento.deps.json
+C:\Users\caibugatti.ruben\Desktop\prodottiAbbigliamento\prodottiAbbigliamento\prodottiAbbigliamento\bin\Debug\net8.0\prodottiAbbigliamento.runtimeconfig.json
+C:\Users\caibugatti.ruben\Desktop\prodottiAbbigliamento\prodottiAbbigliamento\prodottiAbbigliamento\bin\Debug\net8.0\prodottiAbbigliamento.dll
+C:\Users\caibugatti.ruben\Desktop\prodottiAbbigliamento\prodottiAbbigliamento\prodottiAbbigliamento\bin\Debug\net8.0\prodottiAbbigliamento.pdb
+C:\Users\caibugatti.ruben\Desktop\prodottiAbbigliamento\prodottiAbbigliamento\prodottiAbbigliamento\obj\Debug\net8.0\prodottiAbbigliamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caibugatti.ruben\Desktop\prodottiAbbigliamento\prodottiAbbigliamento\prodottiAbbigliamento\obj\Debug\net8.0\prodottiAbbigliamento.AssemblyInfoInputs.cache
+C:\Users\caibugatti.ruben\Desktop\prodottiAbbigliamento\prodottiAbbigliamento\prodottiAbbigliamento\obj\Debug\net8.0\prodottiAbbigliamento.AssemblyInfo.cs
+C:\Users\caibugatti.ruben\Desktop\prodottiAbbigliamento\prodottiAbbigliamento\prodottiAbbigliamento\obj\Debug\net8.0\prodottiAbbigliamento.csproj.CoreCompileInputs.cache
+C:\Users\caibugatti.ruben\Desktop\prodottiAbbigliamento\prodottiAbbigliamento\prodottiAbbigliamento\obj\Debug\net8.0\prodottiAbbigliamento.dll
+C:\Users\caibugatti.ruben\Desktop\prodottiAbbigliamento\prodottiAbbigliamento\prodottiAbbigliamento\obj\Debug\net8.0\refint\prodottiAbbigliamento.dll
+C:\Users\caibugatti.ruben\Desktop\prodottiAbbigliamento\prodottiAbbigliamento\prodottiAbbigliamento\obj\Debug\net8.0\prodottiAbbigliamento.pdb
+C:\Users\caibugatti.ruben\Desktop\prodottiAbbigliamento\prodottiAbbigliamento\prodottiAbbigliamento\obj\Debug\net8.0\prodottiAbbigliamento.genruntimeconfig.cache
+C:\Users\caibugatti.ruben\Desktop\prodottiAbbigliamento\prodottiAbbigliamento\prodottiAbbigliamento\obj\Debug\net8.0\ref\prodottiAbbigliamento.dll
