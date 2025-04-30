@@ -12,3 +12,4 @@ C:\Users\caibugatti.ruben\Desktop\prodottiAbbigliamento\prodottiAbbigliamento\pr
 C:\Users\caibugatti.ruben\Desktop\prodottiAbbigliamento\prodottiAbbigliamento\prodottiAbbigliamento\obj\Debug\net8.0\prodottiAbbigliamento.pdb
 C:\Users\caibugatti.ruben\Desktop\prodottiAbbigliamento\prodottiAbbigliamento\prodottiAbbigliamento\obj\Debug\net8.0\prodottiAbbigliamento.genruntimeconfig.cache
 C:\Users\caibugatti.ruben\Desktop\prodottiAbbigliamento\prodottiAbbigliamento\prodottiAbbigliamento\obj\Debug\net8.0\ref\prodottiAbbigliamento.dll
+C:\Users\caibugatti.ruben\Desktop\prodottiAbbigliamento\prodottiAbbigliamento\prodottiAbbigliamento\obj\Debug\net8.0\prodottiAbbigliamento.sourcelink.json
